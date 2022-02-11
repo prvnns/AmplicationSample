@@ -1,0 +1,170 @@
+[
+  {
+    "role": "guest",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user1",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "guest",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user1",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "guest",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user1",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "guest",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user1",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "guest",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user1",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "guest",
+    "resource": "ShapeDatum",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user1",
+    "resource": "ShapeDatum",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "ShapeDatum",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "guest",
+    "resource": "ShapeDatum",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user1",
+    "resource": "ShapeDatum",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "ShapeDatum",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "guest",
+    "resource": "ShapeDatum",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user1",
+    "resource": "ShapeDatum",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "ShapeDatum",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "ShapeDatum",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "guest",
+    "resource": "ShapeDatum",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user1",
+    "resource": "ShapeDatum",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "ShapeDatum",
+    "action": "read:any",
+    "attributes": "*"
+  }
+]
