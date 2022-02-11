@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.2",
+  "appInfo": {
+    "name": "ShapeData",
+    "description": "ShapeData",
+    "version": "cmqwm8wn",
+    "id": "ckxst08g6120531bs6wq0m0c48",
+    "url": "https://app.amplication.com/ckxst08g6120531bs6wq0m0c48",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckxst08g6120531bs6wq0m0c48",
+      "authProvider": "Jwt"
+    }
+  }
+}
